@@ -1,4 +1,4 @@
-all: description exceution conclusion
+all: description exceution clear conclusion
 
 description:
 	@echo "this is a code to test whether a given number is an armstrong number."
